@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>title visible for tab</title>
+  </head>
+  <body>
+    <h1>President Biden</h1>
+    <p>This is a &lt;p&gt; element</p>
+    <p>This is <i>also </i>a &lt;p&gt; element</p>
+    <img 
+      src="https://img.pvvstream.pro/preview/65G7ZuBdd5L0goAwIMeI7w/-198891591_456241600/sun9-61.userapi.com/m8AMvyaet4MGTJs4I4-rzxZrPL4HlWZtAXD7RQ/04ourypS9_w.jpg"
+      alt="Biden Blast!"
+      height=300
+      width=400 />
+  </body>
+</html>
